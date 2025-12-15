@@ -26,33 +26,6 @@ Built with a **Premium Dark UI**, it focuses on user experience and efficiency, 
 *   Node.js installed.
 *   PostgreSQL installed and running.
 
-### Steps
-1.  **Clone the repository:**
-    ```bash
-    git clone <repository-url>
-    cd logistics_managment_system
-    ```
-
-2.  **Install dependencies:**
-    ```bash
-    npm install
-    ```
-
-3.  **Database Setup:**
-    *   Make sure your PostgreSQL server is running.
-    *   Update `backend/db.js` and `database/setup_db.js` with your Postgres credentials (default password is `12345`).
-    *   Run the setup script to create the database and seed data:
-    ```bash
-    npm run db:setup
-    ```
-
-4.  **Start the Server:**
-    ```bash
-    npm start
-    ```
-
-5.  **Access the App:**
-    Open your browser and navigate to `http://localhost:3000`.
 
 ## 📂 Project Structure
 ```
@@ -80,12 +53,7 @@ logistics_managment_system/
 | **Driver** | `driver` | `12345` |
 | **Admin** | `tejas` | `12345` |
 
-## 🤝 Contributing
-1.  Fork the project.
-2.  Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3.  Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4.  Push to the branch (`git push origin feature/AmazingFeature`).
-5.  Open a Pull Request.
+
 
 ---
 *Created by Tejas.*
