@@ -1,6 +1,5 @@
 # LogisticsPro Management System
 
-![LogisticsPro](https://img.shields.io/badge/Status-Active-success) ![Node.js](https://img.shields.io/badge/Node.js-v14+-green) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-v12+-blue)
 
 ## 📌 Project Overview
 **LogisticsPro** is a comprehensive full-stack web application designed to streamline logistics operations. It provides a centralized dashboard for managing the flow of goods, vehicle fleets, drivers, warehouses, and shipments.
